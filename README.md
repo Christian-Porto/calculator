@@ -1,7 +1,7 @@
 # Calculadora online
 status: Concluido ✅
 
-### Linguagens utilizadas:
+## Linguagens utilizadas:
 + HTML
 + CSS
 + JavaScript
