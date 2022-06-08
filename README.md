@@ -2,9 +2,9 @@
 status: Concluido ✅
 
 ### Linguagens utilizadas:
-### HTML
-### CSS
-### JavaScript
++ HTML
++ CSS
++ JavaScript
 
 ## tags e seletores utilizados:
 ### HTML:
