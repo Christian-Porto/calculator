@@ -6,7 +6,7 @@ status: Concluido ✅
 + CSS
 + JavaScript
 
-## tags e seletores utilizados:
+## Tags e seletores utilizados:
 ### HTML:
 + div
 + h1
@@ -18,16 +18,6 @@ status: Concluido ✅
 + class
 + onclick
 + insert
-
-### JavaScript:
-+ function
-+ function eval
-+ var
-+ .getElementById
-+ .innerHTML
-+ if
-+ else
-
 
 ### CSS:
 + margin
@@ -46,3 +36,12 @@ status: Concluido ✅
 + width
 + font-size
 + cursor
+
+### JavaScript:
++ function
++ function eval
++ var
++ .getElementById
++ .innerHTML
++ if
++ else
