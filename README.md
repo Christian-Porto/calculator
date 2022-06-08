@@ -1,4 +1,4 @@
-# calculator
+# Calculadora online
 status: Concluido ✅
 
 ### Linguagens utilizadas:
