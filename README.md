@@ -1,14 +1,14 @@
 # calculator
 status: Concluido ✅
 
-##É um site criado com o intuito de fornecer uma calculadora online
-###Linguagens utilizadas:
-###HTML
-###CSS
-###JavaScript
+## É um site criado com o intuito de fornecer uma calculadora online
+### Linguagens utilizadas:
+### HTML
+### CSS
+### JavaScript
 
-##tags e seletores utilizados:
-###HTML:
+## tags e seletores utilizados:
+### HTML:
 div
 h1
 p
@@ -20,7 +20,7 @@ class
 onclick
 insert
 
-###JavaScript:
+### JavaScript:
 function
 function eval
 var
@@ -30,7 +30,7 @@ if
 else
 
 
-###CSS:
+### CSS:
 margin
 padding
 background-image
